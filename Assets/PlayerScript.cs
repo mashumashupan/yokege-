@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;  //Scene遷移を行う際は必ず書く！！
+using UnityEngine.SceneManagement;
 
 public class PlayerScript : MonoBehaviour
 {

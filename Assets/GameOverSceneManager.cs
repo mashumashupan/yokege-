@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-//この下にコードを追加する
 using UnityEngine.SceneManagement;
 
 public class GameOverSceneManager : MonoBehaviour
